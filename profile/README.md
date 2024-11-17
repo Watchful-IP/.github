@@ -6,10 +6,10 @@ Hello there!
 This is where we do most of the design and engineering at Watchful
 
 ## Want to know more about how we work?
-Coming soon
+Learn more about [how we work at Watchful](https://watchful.co.nz/careers)
 
 ## Looking for a job?
-Coming soon
+See our [Open Positions](https://watchful-updates.notion.site/Open-Positions-1344af3bfac08021be1ef3965e2da7f8?pvs=4)
 
 
 
